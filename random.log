@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.9.26)  3 OCT 2022 17:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.9.26)  3 OCT 2022 18:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/macbook/Desktop/^^c5^^a0kola/MIP/MIP cviko 2/random.tex"
-(/Users/macbook/Desktop/^^c5^^a0kola/MIP/MIP cviko 2/random.tex
+**"/Users/macbook/Desktop/S^^cc^^8ckola/MIP/MIP cviko 2/random.tex"
+(/Users/macbook/Desktop/S^^cc^^8ckola/MIP/MIP cviko 2/random.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-08-30> (/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -30,7 +30,7 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count193
 \l__pdf_internal_box=\box51
-) (/Users/macbook/Desktop/^^c5^^a0kola/MIP/MIP cviko 2/random.aux)
+) (random.aux)
 \openout1 = `random.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
@@ -51,22 +51,22 @@ LaTeX Font Info:    ... okay on input line 8.
 
 {/Users/macbook/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 10.
+(Font)              <12> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 10.
+(Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 10.
- [2] (/Users/macbook/Desktop/^^c5^^a0kola/MIP/MIP cviko 2/random.aux) ) 
+(Font)              <6> on input line 11.
+ [2] (random.aux) ) 
 Here is how much of TeX's memory you used:
  485 strings out of 475390
- 9911 string characters out of 2767592
+ 9732 string characters out of 2767592
  348822 words of memory out of 3000000
  21930 multiletter control sequences out of 15000+600000
  472899 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,6n,38p,200b,192s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 34i,6n,38p,201b,192s stack positions out of 10000i,1000n,20000p,200000b,80000s
 </Users/macbook/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/macbook/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/macbook/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Users/macbook/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "/Users/macbook/Desktop/^^c5^^a0kola/MIP/MIP cviko 2/random.pdf" (2 pages, 46626 bytes).
+Output written on random.pdf (2 pages, 47424 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

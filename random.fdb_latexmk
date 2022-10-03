@@ -1,7 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1664812461 "/Users/macbook/Desktop/Škola/MIP/MIP cviko 2/random.tex" "/Users/macbook/Desktop/Škola/MIP/MIP cviko 2/random.pdf" "random" 1664812461
-  "/Users/macbook/Desktop/Škola/MIP/MIP cviko 2/random.aux" 1664812461 132 839012734f3e44801caee2f4bb0de608 "pdflatex"
-  "/Users/macbook/Desktop/Škola/MIP/MIP cviko 2/random.tex" 1664812460 205 b7adb8534541c626e7d9eeb214a73432 ""
+["pdflatex"] 1664813129 "/Users/macbook/Desktop/Škola/MIP/MIP cviko 2/random.tex" "random.pdf" "random" 1664813130
+  "/Users/macbook/Desktop/Škola/MIP/MIP cviko 2/random.tex" 1664813128 215 dbebff48665a25a855c391128fd940dc ""
   "/Users/macbook/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1664218949 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "/Users/macbook/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1664218389 10796361 7c62529534083ca5c138a26f785e1402 ""
   "/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm" 1664207315 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -23,7 +22,9 @@
   "/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty" 1664207319 5048 84b05796b49b69e2d4257d537721c960 ""
   "/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo" 1664207319 8448 e0391042ca0932ede1098ae14ada60ba ""
   "/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def" 1664207317 30282 33c465a64f2bd5ad4a68a7b2f555a29b ""
+  "random.aux" 1664813130 132 839012734f3e44801caee2f4bb0de608 "pdflatex"
+  "random.tex" 1664813128 215 dbebff48665a25a855c391128fd940dc ""
   (generated)
-  "/Users/macbook/Desktop/Škola/MIP/MIP cviko 2/random.aux"
-  "/Users/macbook/Desktop/Škola/MIP/MIP cviko 2/random.log"
-  "/Users/macbook/Desktop/Škola/MIP/MIP cviko 2/random.pdf"
+  "random.aux"
+  "random.log"
+  "random.pdf"
